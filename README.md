@@ -1,30 +1,55 @@
+# MancaBot
+Only Termux
+<h1 align="center">𝙉𝙐𝙍𝙐𝙇ツ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hai David Disini</h1>
+
 <p align="center">
-<img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
-</p>
-<p align="center">
-<a href="#"><img title="WABOT-VERSION V-7" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/DAVIDGNZ1"><img title="Author" src="https://img.shields.io/badge/Author-DAVIDGNZ1-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/DAVIDGNZ1/followers"><img title="Followers" src="https://img.shields.io/github/followers/DAVIDGNZ1?color=blue&style=flat-square"></a>
-<a href="https://github.com/DAVIDGNZ1/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DAVIDGNZ1/SC-NEW?color=red&style=flat-square"></a>
-<a href="https://github.com/DAVIDGNZ1/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DAVIDGNZ1/SC-NEW?color=red&style=flat-square"></a>
-<a href="https://github.com/DAVIDGNZ1/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DAVIDGNZ1/SC-NEW?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/DAVIDGNZ1/termux-wabot"><img src="https://www.codefactor.io/repository/github/DAVIDGNZ1/SC-NEW/badge" alt="CodeFactor" /></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+<img src="https://ibb.co/r5wpr0n" width="100%" alt="API Giphy logo"/>
 </p>
 
-## Clone this project
+- 🌱 I’m currently learning **nothing**.
 
-```bash
-> git clone https://github.com/DAVIDGNZ1/DAVIDGNZ1
-```
-## Group
-* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+- 👀 I m currently focusing on **JavaScript**.
 
-### Donate
-* <a href="https://saweria.co/donate/DAVIDGNZ1"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-* <a href="https://paypal.me/DAVIDGNZ1"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mancabot"><img src="https://github-readme-stats.vercel.app/api?username=mancabot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DAVIDGNZ1"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mancabot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancabot&theme=onedark" /></a>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mancabot" />
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/n9fUrhPf5-8"><img src="https://img.shields.io/badge/YouTube-SofyanAMV09-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
+  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
+
+
+
+* [`WhatsApp Admin `](https://wa.me/6287880120452)
+
+* [`David Gnz `](https://wa.me/6287880120452)
+
 
